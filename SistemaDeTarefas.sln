@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeTarefas", "SistemaDeTarefas\SistemaDeTarefas.csproj", "{DE4AEED1-F4B9-4873-93E0-FB453913CFD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE4AEED1-F4B9-4873-93E0-FB453913CFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4AEED1-F4B9-4873-93E0-FB453913CFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4AEED1-F4B9-4873-93E0-FB453913CFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4AEED1-F4B9-4873-93E0-FB453913CFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32F48E5D-96DF-4991-9F84-58313A6A827D}
+	EndGlobalSection
+EndGlobal
